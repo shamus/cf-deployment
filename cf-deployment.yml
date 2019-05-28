@@ -2422,9 +2422,9 @@ releases:
   version: "72.0"
   sha1: 7130e5ac640ed1e1f52c09e76995e4d0680f3b45
 - name: loggregator-agent
-  url: https://bosh.io/d/github.com/cloudfoundry/loggregator-agent-release?v=3.9
-  version: "3.9"
-  sha1: bf723af956a61c7b51db0ba535c871bad24dd289
+  url: https://bosh.io/d/github.com/cloudfoundry/loggregator-agent-release?v=3.14
+  version: "3.14"
+  sha1: 52ef16012d3177e17ded96569cb3c9a479324725
 - name: log-cache
   url: https://bosh.io/d/github.com/cloudfoundry/log-cache-release?v=2.2.0
   version: 2.2.0
@@ -2440,4 +2440,4 @@ releases:
 stemcells:
 - alias: default
   os: ubuntu-xenial
-  version: "315.26"
+  version: "315.34"
