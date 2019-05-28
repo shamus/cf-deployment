@@ -2426,9 +2426,9 @@ releases:
   version: "3.9"
   sha1: bf723af956a61c7b51db0ba535c871bad24dd289
 - name: log-cache
-  url: https://bosh.io/d/github.com/cloudfoundry/log-cache-release?v=2.2.0
-  version: 2.2.0
-  sha1: 1ebecd0adbfc50fdd61309e129b0292deb7e7b24
+  url: https://bosh.io/d/github.com/cloudfoundry/log-cache-release?v=2.3.0
+  version: 2.3.0
+  sha1: 2a893beb591552888fa06e4a871d9b89db1c0368
 - name: bosh-dns-aliases
   url: https://bosh.io/d/github.com/cloudfoundry/bosh-dns-aliases-release?v=0.0.3
   version: 0.0.3
@@ -2440,4 +2440,4 @@ releases:
 stemcells:
 - alias: default
   os: ubuntu-xenial
-  version: "315.26"
+  version: "315.34"
